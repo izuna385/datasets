@@ -173,12 +173,12 @@ Stevenson, et al. (Stevenson et al., 2009) contains examples of 300 ambiguous ab
 
 * **Medline** is a bibliographic database containing around 23 million ci- tations to journal articles in the biomedical do- main and is maintained by National Library of Medicine. The 2015 Medline Baseline encom- passes approximately 5,600 journals starting from 1948, and contains 22,775,609 citations, of which 13,835,206 contain abstracts.For more detail, see, for example, [here](http://www.aclweb.org/anthology/W17-2334).
 
-## pretrained Embeddings
- * biomedical word2vec embeddings:[issue](https://github.com/RaRe-Technologies/gensim-data/issues/28),[issue](https://github.com/RaRe-Technologies/gensim-data/issues/5)
+## Pretrained-Embeddings(biology)
+ * Biomedical word2vec embeddings:[issue](https://github.com/RaRe-Technologies/gensim-data/issues/28),[issue](https://github.com/RaRe-Technologies/gensim-data/issues/5)
 
- * Bioasq pretrained data
+ * **Bioasq** pretrained data.[link](http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts)
 
- * Cambridge Bio word2vec data [link](https://github.com/cambridgeltl/MTL-Bioinformatics-2016)
+ * **Cambridge Bio word2vec** data [link](https://github.com/cambridgeltl/MTL-Bioinformatics-2016)
 
    * [This paper](https://github.com/wonjininfo/CollaboNet) use this.
 
